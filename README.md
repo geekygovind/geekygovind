@@ -349,7 +349,7 @@ An AI-powered translation project designed to translate text between different l
   <img src="https://img.shields.io/badge/GitHub-geekygovind-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/geekygovind">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
