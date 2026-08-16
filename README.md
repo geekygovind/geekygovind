@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  💻 Aspiring Software Developer | Java & DSA | AI & Web Development
+  💻 Software Developer | Data Science | Java & DSA | AI & Web Development
 </h3>
 
 <div align="center">
