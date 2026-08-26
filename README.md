@@ -1,374 +1,155 @@
-<h1 align="center">
-  👋 Hey there, I'm Govind Singh!
-</h1>
-
-<h3 align="center">
-  💻 Software Developer | Data Science | Java & DSA | AI & Web Development
-</h3>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Govind+Singh+Chauhan+👋;Aspiring+Software+Developer;Java+%7C+DSA+%7C+JavaScript;AI+%26+Web+Development+Enthusiast;Building+Projects+That+Solve+Problems;Always+Learning%2C+Always+Building+🚀" alt="Typing SVG" />
-</div>
 
-<br>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-</div>
-
----
-
-## 🚀 About Me
-
-```text
-👋 Hello! I'm Govind Singh Chauhan.
-
-💻 Aspiring Software Developer
-☕ Java & DSA Enthusiast
-🤖 AI & Technology Explorer
-🌐 Web Development Learner
-🧠 Problem Solving Enthusiast
-🚀 Project Builder
+```
+$ whoami
 ```
 
-* 🎓 B.Tech student passionate about software development.
-* ☕ Currently focusing on **Java and Data Structures & Algorithms**.
-* 🧠 Regularly practicing coding and problem-solving.
-* 🌐 Learning **HTML, CSS, JavaScript and DOM**.
-* 🤖 Interested in **Artificial Intelligence and practical AI applications**.
-* 🛠️ Building projects that combine **AI, web development and problem solving**.
-* 📚 Always learning new technologies and improving my coding skills.
-* 🎯 Goal: Become a strong and versatile **Software Developer**.
+# Govind Singh
 
----
+**turning `TODO: figure this out` into shipped code since forever**
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=B.Tech+student+%E2%80%A2+Java+%2B+DSA+enthusiast;Building+AI+that+actually+does+something;Debugging+at+2am+so+you+don't+have+to;Currently+compiling...+please+wait" alt="Typing SVG" />
 
-### 💻 Programming Languages
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js" />
 </div>
 
 <br>
 
-<div align="center">
+## `> cat about.md`
 
-`Java` • `Python` • `JavaScript`
+I'm a B.Tech student who got hooked on the loop of **break something → figure out why → fix it → break it again, on purpose this time**. Java and DSA are where I sharpen the logic; AI and web dev are where I point it at real problems — study planning, recommendations, translation. Still early in the journey, still stubborn about finishing what I start.
 
-</div>
-
----
-
-### 🌐 Frontend Development
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</div>
+If my GitHub contribution graph could talk, it'd mostly say *"debugging."*
 
 <br>
 
-<div align="center">
+## `> ls skills/`
 
-`HTML5` • `CSS3` • `JavaScript` • `DOM`
+<table>
+<tr>
+<td valign="top" width="33%">
 
-</div>
+**🧠 Core**
+<img src="https://skillicons.dev/icons?i=java,python,js" /><br>
+Java • Python • JavaScript
 
----
+</td>
+<td valign="top" width="33%">
 
-### 🤖 AI & Machine Learning
+**🌐 Web**
+<img src="https://skillicons.dev/icons?i=html,css,js" /><br>
+HTML5 • CSS3 • DOM
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-</div>
+</td>
+<td valign="top" width="33%">
+
+**🔧 Tools**
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /><br>
+Git • GitHub • VS Code • Postman
+
+</td>
+</tr>
+</table>
 
 <br>
 
-* 🤖 Artificial Intelligence
-* 🧠 AI-powered applications
-* 🎬 Recommendation systems
-* 🌐 AI translation
-* 📚 AI-based study assistance
+## `> traverse data_structures/`
 
----
-
-### 🧠 Data Structures & Algorithms
-
-Currently learning and practicing:
-
-```text
-Arrays
-Strings
-Hashing
-Linked Lists
-Stacks
-Queues
-Recursion
-Binary Trees
-Trees
-Graphs
-Sorting
-Searching
-Bit Manipulation
-Dynamic Programming
-Problem Solving
+```
+Arrays → Strings → Hashing → Linked Lists → Stacks → Queues
+   → Recursion → Trees → Graphs → Sorting/Searching
+      → Bit Manipulation → Dynamic Programming
 ```
 
-### 🔥 My Problem-Solving Approach
+My actual debugging process, condensed:
 
-```text
-Understand the Problem
-        ↓
-Find the Pattern
-        ↓
-Think of a Solution
-        ↓
-Write the Code
-        ↓
-Test & Debug
-        ↓
-Optimize
-        ↓
-Learn 🚀
+```
+understand it  →  find the pattern  →  sketch a fix
+      ↑                                     │
+      └──────── it's still broken ──────────┘
+                        │
+                     it works
+                        │
+                        ▼
+                 optimize, then learn
 ```
 
----
+<br>
 
-## 🚀 Featured Projects
+## `> ./run featured_projects.sh`
 
-### 🤖 1. AI Study Planner
+**🤖 AI Study Planner**
+An AI-assisted planner that turns "I have a syllabus and no time" into an actual schedule — task organization, progress tracking, and goal-based planning baked in.
+`Python` `AI` `JavaScript` `HTML/CSS`
 
-An AI-powered study planning application designed to help students organize their learning and create personalized study schedules.
+**🎬 Movie Recommendation System**
+Recommends movies based on ratings and preferences instead of "trending this week." Search, personalized suggestions, and a UI that doesn't fight you.
+`Python` `AI/ML` `JavaScript` `HTML/CSS`
 
-#### ✨ Features
+**🌐 AI Translator**
+Fast, no-nonsense text translation across languages with a clean interface and one-tap copy — built to be simple, not bloated.
+`Python` `AI` `JavaScript` `HTML/CSS`
 
-* 📚 Personalized study planning
-* 🤖 AI-assisted schedule generation
-* ⏰ Study time management
-* 🎯 Goal-oriented learning
-* 📊 Progress tracking
-* 📝 Subject/task organization
+<br>
 
-#### 🛠️ Technologies
-
-`AI` `Python` `JavaScript` `HTML` `CSS`
-
----
-
-### 🎬 2. Movie Recommendation System
-
-A movie recommendation application that helps users discover movies based on their interests and preferences.
-
-#### ✨ Features
-
-* 🎥 Movie recommendations
-* 🔍 Movie search
-* ⭐ Rating-based recommendations
-* 🎯 Personalized suggestions
-* 🖼️ Movie information
-* 📱 User-friendly interface
-
-#### 🛠️ Technologies
-
-`Python` `AI/ML` `JavaScript` `HTML` `CSS`
-
----
-
-### 🌐 3. AI Translator
-
-An AI-powered translation project designed to translate text between different languages.
-
-#### ✨ Features
-
-* 🌍 Multi-language translation
-* ✍️ Text input and translation
-* ⚡ Fast translation
-* 🤖 AI-powered processing
-* 📋 Easy copy functionality
-* 🎨 Simple and responsive UI
-
-#### 🛠️ Technologies
-
-`Python` `AI` `JavaScript` `HTML` `CSS`
-
----
-
-## 💡 What I Love Building
+## `> tail -f currently_learning.log`
 
 <div align="center">
-
-|          🤖 AI         |        🌐 Web        |      🧠 DSA     |
-| :--------------------: | :------------------: | :-------------: |
-|     AI Applications    | Interactive Websites | Coding Problems |
-| Recommendation Systems |  JavaScript Projects |    Algorithms   |
-|        AI Tools        |   Web Applications   | Data Structures |
-|    Smart Assistants    |     Responsive UI    |   Optimization  |
-
-</div>
-
----
-
-## 🌱 Currently Learning
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Mastering+DSA+with+Java;Improving+Problem+Solving;Learning+JavaScript+DOM;Exploring+AI+%26+Machine+Learning;Building+Real+World+Projects;Learning+Backend+Development" alt="Learning SVG" />
-</div>
-
-### 🎯 Current Focus
-
-* ☕ Java
-* 🧠 Data Structures & Algorithms
-* 🌐 JavaScript & DOM
-* 🤖 Artificial Intelligence
-* 🐍 Python
-* 💻 Web Development
-* 🚀 Real-world Projects
-* 🔧 Git & GitHub
-
----
-
-## 🧰 Tools & Technologies
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1100&color=00F7FF&center=true&vCenter=true&width=650&lines=Mastering+DSA+with+Java;Getting+serious+about+backend+dev;Exploring+AI+%2F+ML+beyond+the+basics;Contributing+to+open+source+(finally);Prepping+for+internships" alt="Learning log" />
 </div>
 
 <br>
 
-<div align="center">
+## `> git log --author="2026-goals"`
 
-`Git` • `GitHub` • `VS Code` • `Postman`
+| Status | Goal |
+|:---:|:---|
+| 🟡 | Master DSA and get genuinely fast at problem-solving |
+| 🟡 | Go deep on Java, not just wide |
+| 🟡 | Ship more AI-powered projects, not just prototypes |
+| 🟡 | Learn backend dev — APIs, databases, the unglamorous stuff |
+| 🟡 | Land a software development internship |
+| 🟡 | Make my first real open-source contribution |
 
-</div>
+*🟡 = in progress, because "done" is a myth in this line of work*
 
----
+<br>
 
-## 📊 GitHub Statistics
+## `> git stats --global`
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=geekygovind&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&include_all_commits=true" width="480"/>
 
-<br><br>
-
 <img src="https://streak-stats.demolab.com/?user=geekygovind&theme=tokyonight&hide_border=false&border_radius=10" width="480"/>
-
-<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekygovind&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" width="400"/>
 
 </div>
 
----
+<br>
 
-## 🏆 Coding Journey
+## `> echo $PHILOSOPHY`
 
-<div align="center">
+> Most of what I know, I learned from something breaking first.
+> The rest, I'm still compiling.
 
-🧠 **DSA Practice**
-☕ **Java Problem Solving**
-🔥 **LeetCode Practice**
-💻 **Project Development**
-🤖 **AI Exploration**
+<br>
 
-</div>
-
-> 💡 **Every problem I solve makes me a better programmer.**
-
----
-
-## 🎯 My 2026 Goals
-
-* [ ] 🔥 Master Data Structures & Algorithms
-* [ ] ☕ Become strong in Java
-* [ ] 🧠 Solve more DSA problems
-* [ ] 🤖 Build more AI-based applications
-* [ ] 🌐 Improve JavaScript & Web Development
-* [ ] 🚀 Build production-level projects
-* [ ] 🔧 Learn backend development
-* [ ] 🐙 Become better with Git & GitHub
-* [ ] 💼 Prepare for software development internships
-* [ ] 🌟 Contribute to open-source projects
-
----
-
-## 📈 My Developer Journey
-
-```text
-              💡 IDEA
-                │
-                ▼
-           📚 LEARNING
-                │
-                ▼
-          🧠 PRACTICING
-                │
-                ▼
-         💻 CODING / DSA
-                │
-                ▼
-          🛠️ BUILDING
-                │
-                ▼
-           🐛 DEBUGGING
-                │
-                ▼
-           ⚡ OPTIMIZING
-                │
-                ▼
-             🚀 GROWING
-```
-
----
-
-## 💭 Developer Philosophy
-
-<div align="center">
-
-### 💻 Learn
-
-### 🧠 Practice
-
-### 🔨 Build
-
-### 🐛 Debug
-
-### 🚀 Improve
-
-### 🔥 Repeat
-
-</div>
-
----
-
-## 🤝 Let's Connect
+## `> ./connect --with=me`
 
 <div align="center">
 
 <a href="https://github.com/geekygovind">
   <img src="https://img.shields.io/badge/GitHub-geekygovind-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 <a href="https://www.linkedin.com/geekygovind">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-</div>
+<br><br>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=00F7FF&center=true&vCenter=true&width=650&lines=Thanks+for+scrolling+this+far+%F0%9F%91%8B;Star+a+repo+if+something+here+was+useful;Now+compiling+the+next+project..." alt="closing" />
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!+👋;Keep+Learning+%7C+Keep+Building+%7C+Keep+Growing+🚀;Let's+Build+Something+Amazing+Together!" alt="Typing SVG" />
-
-</div>
-
----
-
-<div align="center">
-
-⭐ **If you like my projects, don't forget to star ⭐ the repositories!**
-
-### 🚀 Code • Create • Learn • Repeat
+**`process exited with code 0`**
 
 </div>
