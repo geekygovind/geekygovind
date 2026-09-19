@@ -5,7 +5,7 @@
 ### `Building systems. Solving problems. Learning what happens under the hood.`
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Java+Developer+in+Progress;DSA+%E2%86%92+Patterns+%E2%86%92+Problem+Solving;Backend+%2B+APIs+%2B+Databases;Building+AI-powered+products;Turning+curiosity+into+code..."
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=MERN+Stack+Developer+in+Progress;DSA+%E2%86%92+Patterns+%E2%86%92+Problem+Solving;Backend+%2B+APIs+%2B+Databases;Building+AI-powered+products;Turning+curiosity+into+code..."
 alt="Typing SVG"
 />
 
